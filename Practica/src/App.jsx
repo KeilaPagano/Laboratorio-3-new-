@@ -1,12 +1,12 @@
 import './App.css'
-// import Login from './components/login/Login'
+import Lista from './components/list/List'
+
 
 function App() {
 
   return (
     <>
-      {/* <Login/>  */}
-        
+      <Lista/>
     </>
   )
 }
